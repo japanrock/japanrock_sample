@@ -1,8 +1,0 @@
-.autotest
-History.txt
-Manifest.txt
-README.txt
-Rakefile
-bin/japanrock_sample
-lib/japanrock_sample.rb
-test/test_japanrock_sample.rb
